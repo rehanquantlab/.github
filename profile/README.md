@@ -35,7 +35,7 @@
 | System | Architecture / Tech Stack | Verified Benchmark / SLA | Production Topology | Public Repository |
 | :--- | :--- | :--- | :--- | :--- |
 | **AegisDB™** | Modern C++20 / Native C AVX2 / Ring Buffers | **21.4M SIMD ops/sec** (0.39µs) • **2.62M reads/sec** • 16/16 Tests | In-Memory Engine + Ash Ledger WAL | [`rehanquantlab/aegis-db`](https://github.com/rehanquantlab/aegis-db) |
-| **Options Sniper** | Python 3.12 / Asyncio / Kotak Neo API | **0.800µs Swarm Latency** • Directional Toxicity • 9/9 Tests | AWS Mumbai (`ap-south-1`) Live | [`rehanquantlab/indian-quant-options-sniper`](https://github.com/rehanquantlab/indian-quant-options-sniper) |
+| **Options Sniper** | Python 3.12 / Asyncio / Kotak Neo API | **Non-Newtonian Liquid Armor** • 7-Agent Swarm (0.70µs) • 13/13 Tests | AWS Mumbai (`ap-south-1`) Live | [`rehanquantlab/indian-quant-options-sniper`](https://github.com/rehanquantlab/indian-quant-options-sniper) |
 | **AgentOps SaaS** | FastAPI / Docker / Python SDK (`pip install aegisops`) | **7-Agent Swarm** • Sub-10ms MTTR • 25/25 Tests | Distributed Swarm Mesh (:8510 / :8000) | [`rehanquantlab/autonomous-agent-ops-saas`](https://github.com/rehanquantlab/autonomous-agent-ops-saas) |
 
 ---
@@ -47,8 +47,9 @@
 * **Autonomous Hardware Guards**: Hardcoded mathematical risk ceilings (35% daily drawdown freeze) preventing rogue algorithmic loops.
 
 ### 2. 🎯 [Indian Quant Options Sniper](https://github.com/rehanquantlab/indian-quant-options-sniper)
+* **Non-Newtonian Computational Liquid Diamond Armor**: Peacetime fluid water flow ($\le ₹0.05$ spread, 100% capacity), Dynamic Orderbook Spread Clamping ($\ge ₹1.50$ diamond lock), Hydraulic Volatility Damper (exponential sizing downshift to 25% on $+15\%$ VIX spikes before stop-loss touch), and Viscosity Damping Lockout ($\ge 75\%$ depth collapse trap evasion).
 * **Colocated Edge Execution**: Daemonized under Linux `systemd` on an AWS EC2 instance in Mumbai (`ap-south-1`), directly adjacent to the National Stock Exchange (NSE).
-* **7-Agent Swarm Adversarial Tribunal**: 7 autonomous specialists debating signals with sub-microsecond in-memory cache lookup (**0.800 µs**).
+* **7-Agent Swarm Adversarial Tribunal**: 7 autonomous specialists debating signals with sub-microsecond in-memory cache lookup (**0.700 µs**).
 * **Directional Toxicity Intelligence**: Differentiates between hostile seller dumping (`CVD < 0` ➔ VETO) and aggressive buyer sweeps (`CVD > 0` ➔ PASS) under high VPIN.
 * **Post-Trade Forensic Tribunal**: Post-fill slippage audit, 80.0% MFE trailing stop efficiency, and automated genomic parameter tuning.
 * **Bidirectional Telegram Telemetry**: Real-time push notifications, live P&L reporting, `/status`, `/swarm`, and an emergency kill switch (`/kill`).
