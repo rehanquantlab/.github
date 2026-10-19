@@ -8,6 +8,8 @@
 [![Direct Contact](https://img.shields.io/badge/Executive_Comms-founder%40rehanquantlab.com-4f46e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@rehanquantlab.com)
 [![Schedule Briefing](https://img.shields.io/badge/1--Click-Schedule_Briefing_(20m)-059669?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://rehanquantlab.com/contact.html#schedule-briefing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan_Quant_Lab-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/rehanquantlab)
+[![X (Twitter)](https://img.shields.io/badge/X-@rehanquantlab-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rehanquantlab)
+[![Substack](https://img.shields.io/badge/Substack-rehanquantlab-ff6719?style=for-the-badge&logo=substack&logoColor=white)](https://rehanquantlab.substack.com)
 [![Executive Resume](https://img.shields.io/badge/Resume-Mohammad_Rehan_(PDF)-dc2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rehanquantlab.com/Mohammad_Rehan_Resume.pdf)
 
 ---
