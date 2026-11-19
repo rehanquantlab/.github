@@ -1,98 +1,76 @@
 <div align="center">
 
 # 🏛️ REHAN QUANT LAB™
-### Quantitative Systems Architecture • Distributed Computing • Autonomous Systems Infrastructure
-**Headquarters: Patna, Bihar, India • Production Edge: AWS Mumbai (`ap-south-1`) & Global Cloudflare CDN**
+### Independent Systems Engineering & Quantitative Software Laboratory
+**Patna, Bihar, India • MSME UDYAM-BR-26-0258772 • In-RAM SIMD Computing**
 
-[![Official Portal](https://img.shields.io/badge/Official_Portal-rehanquantlab.com-0284c7?style=for-the-badge&logo=cloudflare&logoColor=white)](https://rehanquantlab.com)
-[![Direct Contact](https://img.shields.io/badge/Executive_Comms-founder%40rehanquantlab.com-4f46e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@rehanquantlab.com)
-[![Schedule Briefing](https://img.shields.io/badge/1--Click-Schedule_Briefing_(20m)-059669?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://rehanquantlab.com/contact.html#schedule-briefing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan_Quant_Lab-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/rehanquantlab)
-[![X (Twitter)](https://img.shields.io/badge/X-@rehanquantlab-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rehanquantlab)
-[![Substack](https://img.shields.io/badge/Substack-rehanquantlab-ff6719?style=for-the-badge&logo=substack&logoColor=white)](https://rehanquantlab.substack.com)
-[![Executive Resume](https://img.shields.io/badge/Resume-Mohammad_Rehan_(PDF)-dc2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rehanquantlab.com/Mohammad_Rehan_Resume.pdf)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=F8FAFC&center=true&vCenter=true&width=750&lines=REHAN+QUANT+LAB%E2%84%A2;Native+64-Bit+Air-Gapped+Desktop+Workstations+in+Pure+Rust;0+Outbound+Sockets+%E2%80%A2+In-RAM+Volatile+Buffers+%E2%80%A2+Zero+Telemetry;Lifetime+Commercial+Ownership+%E2%80%A2+Zero+Cloud+Vendor+Lock-In">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=0F172A&center=true&vCenter=true&width=750&lines=REHAN+QUANT+LAB%E2%84%A2;Native+64-Bit+Air-Gapped+Desktop+Workstations+in+Pure+Rust;0+Outbound+Sockets+%E2%80%A2+In-RAM+Volatile+Buffers+%E2%80%A2+Zero+Telemetry;Lifetime+Commercial+Ownership+%E2%80%A2+Zero+Cloud+Vendor+Lock-In">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=0F172A&center=true&vCenter=true&width=750&lines=REHAN+QUANT+LAB%E2%84%A2;Native+64-Bit+Air-Gapped+Desktop+Workstations+in+Pure+Rust;0+Outbound+Sockets+%E2%80%A2+In-RAM+Volatile+Buffers+%E2%80%A2+Zero+Telemetry;Lifetime+Commercial+Ownership+%E2%80%A2+Zero+Cloud+Vendor+Lock-In" alt="Role Rotator" />
+  </picture>
+</p>
+
+[![Website](https://img.shields.io/badge/Production_Edge-rehanquantlab.com-faf9f6?style=for-the-badge&logo=cloudflare&logoColor=0d0d0c)](https://rehanquantlab.com)
+[![Store](https://img.shields.io/badge/Commercial_Store-Gumroad-faf9f6?style=for-the-badge&logo=gumroad&logoColor=0d0d0c)](https://rehanquantlab.gumroad.com)
+[![Founder](https://img.shields.io/badge/Founder-Mohammad_Rehan-0a66c2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadrehan1621)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan_Quant_Lab-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/rehan-quant-lab)
+[![Instagram](https://img.shields.io/badge/Instagram-@rehanquantlab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rehanquantlab/)
+[![YouTube](https://img.shields.io/badge/YouTube-Rehan_Quant_Lab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCf4-lOclsbG8QHI2HKuac0A)
+[![Briefing](https://img.shields.io/badge/Executive_Comms-architect@rehanquantlab.com-0d0d0c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architect@rehanquantlab.com)
+
+<p align="center">
+  <b>Engineering zero-telemetry, single-binary 64-bit Windows software suites in pure Rust.</b><br>
+  <i>Patna, Bihar, India • Registered MSME UDYAM-BR-26-0258772 • In-RAM Deterministic State Machines</i>
+</p>
 
 ---
 
-### *"Engineering Fault-Tolerant Computational Systems Under Extreme Market Volatility & Zero Capital Leakage"*
+### ⚖️ The Sovereign Architectural Standard
+> *"Software, written in pure machine code. Deceptively quiet and simple on the surface; unkillable, deterministic, and fortified with mathematical invariants underneath."*  
+> — **Rehan Quant Lab™ Engineering Charter**
+
+---
 
 </div>
 
----
+## 🏛️ Sovereign Workstations Commercial Fleet
+> **Native 64-bit Windows applications built in pure Rust. Zero cloud telemetry. Zero background daemons. In-RAM volatile buffers. Lifetime commercial ownership.**
 
-## ⚡ Executive Overview
+| Workstation Suite | Architectural Invariant | Target Enterprise Domain |
+| :--- | :--- | :--- |
+| **RQL DocumentShield™** | In-RAM PDF Redaction & Sanitization (Zero Disk Leaks) | Legal Chambers & Compliance |
+| **RQL WhisperVault™** | Local CPU/GPU Offline Audio-to-Text Speech Engine | Investigative Journalism & Audio |
+| **RQL Sovereign Retail POS™** | Dual-Cash Drawer & Tax WAL (Air-Gapped) | High-Volume Showrooms & Retail |
+| **RQL StoreChain™** | Local Merkle Tree Multi-Store Offline DB | Distributed Retail Operations |
+| **RQL Conduit™** | Multi-WAN Bare-Metal Rust Kernel (Speedify Alternative) | High-Availability Network Transport |
+| **RQL PortVault™ / Hash™** | In-RAM Cryptographic Integrity & Physical Port Lock | Air-Gap Security Operations |
 
-**Rehan Quant Lab™** is an independent quantitative computational research laboratory and software systems engineering firm. Founded by **Mohammad Rehan** (Lead Systems Architect & BCA graduate), the laboratory unifies 4+ years of real-world business leadership with mission-critical computational infrastructure:
-
-* **Ultra-Low-Latency Storage**: Microsecond in-memory ACID transactional databases benchmarked at **2.62M ops/second**.
-* **Institutional Execution Nodes**: Low-latency in-region AWS Mumbai (`ap-south-1`) gateway peering executing algorithmic options breakout strategies.
-* **Autonomous High Availability**: Distributed process supervision with sub-50ms hot-recovery and zero uncommitted state loss.
-* **100% Invariant Verification**: Across our 6 core production suites, **200 / 200 unit and invariant tests** pass with 100% reliability.
-
----
-
-## 🏛️ Flagship Production Systems
-
-| System | Architecture / Tech Stack | Verified Benchmark / SLA | Production Topology | Public Repository |
-| :--- | :--- | :--- | :--- | :--- |
-| **AegisDB™** | Modern C++20 / Native C AVX2 / Ring Buffers | **21.4M SIMD ops/sec** (0.39µs) • **2.62M reads/sec** • 20/20 Tests | In-Memory Engine + Ash Ledger WAL | [`rehanquantlab/aegis-db`](https://github.com/rehanquantlab/aegis-db) |
-| **Options Sniper** | Python 3.12 / Asyncio / Kotak Neo API | **Dynamic Spread Clamping** • Deterministic Bitmask (<10µs) • 17/17 Tests | AWS Mumbai (`ap-south-1`) Live | [`rehanquantlab/indian-quant-options-sniper`](https://github.com/rehanquantlab/indian-quant-options-sniper) |
-| **AgentOps SaaS** | FastAPI / Docker / Python SDK (`pip install aegisops`) | **Multi-Agent Fleet Supervisor** • Sub-10ms MTTR • 29/29 Tests | Distributed Swarm Mesh (:8510 / :8000) | [`rehanquantlab/autonomous-agent-ops-saas`](https://github.com/rehanquantlab/autonomous-agent-ops-saas) |
-| **Chaos Phoenix** | Python 3.12 / High-Availability Process Daemon | **Continuous Fault Injection** • Level-5 Gauntlet • 17/17 Tests | Daemonized Supervisor Service | [`mohammadrehan1621/aegis-chaos-phoenix`](https://github.com/mohammadrehan1621/aegis-chaos-phoenix) |
+👉 **Commercial Catalog & Immediate Deployment:** [rehanquantlab.com/store](https://rehanquantlab.com/store) • [rehanquantlab.gumroad.com](https://rehanquantlab.gumroad.com)
 
 ---
 
-### 1. 🛡️ [AegisDB™ — Ultra-Low-Latency In-Memory Database Engine](https://github.com/rehanquantlab/aegis-db)
-* **Native C AVX2 Kernel Sidecar**: High-frequency Stoikov Volume-Weighted Micro-Price, Order Flow Imbalance (OFI), and SIMD 5-level depth book imbalance benchmarked at **21.4M ops/sec** (0.39µs latency).
-* **Microsecond Read/Write Throughput**: Purpose-built in-memory key-value and time-series ring-buffer storage designed for high-frequency trading ticks (**2.62M reads/sec**, **1.59M writes/sec**).
-* **Ash Ledger WAL Micro-Journaling**: Sub-15ms cold recovery from sudden process terminations or system crashes with zero uncommitted state loss.
-* **Autonomous Hardware Guards**: Storage-level mathematical risk ceilings (dynamic drawdown limits) preventing rogue execution loops.
+## ⚡ Core Open-Source Kernel: [RQL Conduit (v2.0-PROD)](https://github.com/mohammadrehan1621/rql-conduit)
+> **Deterministic Zero-Cloud Multi-WAN Socket Multiplexing Engine with Bare-Metal Rust Kernel**  
+> Bonds multiple physical network interfaces (Fiber, Ethernet, 5G/LTE) directly on the host machine using unprivileged Winsock2 socket binding, continuous stochastic RTT jitter variance estimation, and a 4-tier safety chassis.
 
-### 2. 🎯 [Indian Quant Options Sniper](https://github.com/rehanquantlab/indian-quant-options-sniper)
-* **Dynamic Volatility-Adaptive Risk Clamping**: Tight spread execution under normal liquidity ($\le ₹0.05$), automatic orderbook spread lockout ($\ge ₹1.50$), Exponential Volatility Sizing Damper (scales position size down to 25% during $+15\%$ India VIX surges), and liquidity depth collapse protection.
-* **Low-Latency Gateway Peering**: Daemonized under Linux `systemd` on an AWS EC2 instance in Mumbai (`ap-south-1`), directly peered to Kotak Neo execution gateways.
-* **Deterministic Risk Matrix**: In-memory bitmask validator evaluating trend, VWAP, liquidity, and directional order flow in $<10\ \mu\text{s}$, with LLM multi-factor trade summarization out-of-band.
-* **Directional Toxicity Intelligence**: Differentiates between hostile seller dumping (`CVD < 0` ➔ VETO) and aggressive buyer sweeps (`CVD > 0` ➔ PASS) under high VPIN.
-* **Post-Trade Execution Analysis**: Post-fill slippage audit, 80.0% MFE trailing stop efficiency, and automated trade journaling.
-* **Bidirectional Telegram Telemetry**: Real-time push notifications, live P&L reporting, `/status`, `/swarm`, and an emergency kill switch (`/kill`).
-
-### 3. 🤖 [Autonomous AgentOps SaaS (AegisOps)](https://github.com/rehanquantlab/autonomous-agent-ops-saas)
-* **Multi-Agent Fleet Supervisor**: Central coordinator tracking worker state machines (Idle, Running, Stressed, Resurrecting, Operational) with deterministic retry schedules and execution epoch counters.
-* **Multi-Factor Decision Pipeline**: Signals pass through Alpha Discovery, Microstructure, Risk Sentinel, Latency Sniper, and Arbiter verification before order execution.
-* **Resilience Lifecycle**: Pre-Audit Verification ➔ Chaos Gauntlet (8 Anomaly Injections) ➔ Phoenix Engine (Sub-10ms Hot-Recovery & Parameter Hardening).
-* **Full-Stack Distribution**: Includes Web Mission Control dashboard (:8510), RESTful telemetry API (:8000), and a distributable client SDK (`pip install aegisops`). 29/29 Pytest passed.
+* **Universal C-ABI Dynamic Library (`rql_conduit_core.dll` — 956 KB):** Compiled via `rustc 1.99.1` (`opt-level = 3`, `lto = "fat"`). Zero GC pauses, sub-50µs failover.
+* **Standalone Native CLI Daemon (`RQLConduit-Rust.exe` — 471 KB):** Zero external runtime dependencies.
+* **11/11 Formally Verified Mathematical Invariants:** 100% test pass rate in 1.08s.
 
 ---
-
-## 🛠️ Core Engineering Stack
-
-```
-Languages       : Modern C++ (C++20), Python 3.12, SQL, Modern TypeScript / JavaScript
-Systems         : Linux (Ubuntu Server), systemd, Docker, Multi-Threading, Memory Ring Buffers, WAL
-Quantitative    : High-Frequency Microstructure, Order Flow Delta (CVD), Spot VWAP, Greeks Engine, Kotak Neo API
-Cloud & Edge    : AWS Mumbai (ap-south-1), Cloudflare Edge Workers, DNSSEC, WireGuard ZTNA, SSL/TLS
-Methodologies   : Fault-Tolerant Architecture, Clean Architecture, Zero-Trust Security, TDD (200/200 Tests)
-```
-
----
-
-## ⚖️ Statutory & Regulatory Compliance Notice
-
-> **IMPORTANT REGULATORY DISCLOSURE**:  
-> **Rehan Quant Lab™** is an independent quantitative computational research and software technology laboratory. We engineer mathematical models, low-latency database engines (including AegisDB™), and automated algorithmic infrastructure. We do not provide investment advice or financial advisory services.  
->  
-> Rehan Quant Lab™ is **not** registered with SEBI (Securities and Exchange Board of India) as an Investment Adviser (IA), Research Analyst (RA), or Portfolio Management Service (PMS). All codebases, execution architectures, and systems in this organization are published strictly for proprietary quantitative research, technological benchmarking, and educational software engineering demonstration. Nothing contained herein constitutes financial advice, trading recommendations, or an offer or solicitation to invest.
-
----
-
-## 👤 Leadership & Executive Inquiries
-
-* **Founder & Lead Systems Architect**: **Mohammad Rehan**
-* **Direct Executive Comms**: [`founder@rehanquantlab.com`](mailto:founder@rehanquantlab.com)
-* **Schedule a 20-Min Technical Briefing**: [rehanquantlab.com/contact.html#schedule-briefing](https://rehanquantlab.com/contact.html#schedule-briefing)
-* **Corporate Website**: [https://rehanquantlab.com](https://rehanquantlab.com)
-* **LinkedIn**: [linkedin.com/in/mohammad-rehan-tech](https://www.linkedin.com/in/mohammad-rehan-tech/)
 
 <div align="center">
-<sub>Copyright © 2026 Mohammad Rehan / Rehan Quant Lab™. All rights reserved under the MIT License. Common-Law Trademark & Prior Use Established under Section 34 of the Indian Trade Marks Act, 1999.</sub>
+
+### 📬 Direct Fast-Connect & Verified Routes
+
+- 🌐 **Commercial Portal**: [rehanquantlab.com](https://rehanquantlab.com)
+- 🛍️ **Workstation Store**: [rehanquantlab.gumroad.com](https://rehanquantlab.gumroad.com)
+- 💼 **LinkedIn Company**: [linkedin.com/company/rehan-quant-lab](https://www.linkedin.com/company/rehan-quant-lab)
+- 👤 **Founder Profile**: [mohammadrehan1621](https://github.com/mohammadrehan1621)
+- 📸 **Lab Instagram**: [@rehanquantlab](https://www.instagram.com/rehanquantlab/)
+- 📺 **Official YouTube**: [Rehan Quant Lab](https://www.youtube.com/channel/UCf4-lOclsbG8QHI2HKuac0A)
+- 📧 **Executive Briefing**: [architect@rehanquantlab.com](mailto:architect@rehanquantlab.com)
+
 </div>
