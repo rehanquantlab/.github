@@ -14,6 +14,7 @@
 
 [![Website](https://img.shields.io/badge/Production_Edge-rehanquantlab.com-faf9f6?style=for-the-badge&logo=cloudflare&logoColor=0d0d0c)](https://rehanquantlab.com)
 [![Store](https://img.shields.io/badge/Commercial_Store-Gumroad-faf9f6?style=for-the-badge&logo=gumroad&logoColor=0d0d0c)](https://rehanquantlab.gumroad.com)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-g.dev%2Frehanquantlab-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/rehanquantlab)
 [![Founder](https://img.shields.io/badge/Founder-Mohammad_Rehan-0a66c2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadrehan1621)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan_Quant_Lab-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/rehan-quant-lab)
 [![Instagram](https://img.shields.io/badge/Instagram-@rehanquantlab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rehanquantlab/)
@@ -67,6 +68,7 @@
 
 - 🌐 **Commercial Portal**: [rehanquantlab.com](https://rehanquantlab.com)
 - 🛍️ **Workstation Store**: [rehanquantlab.gumroad.com](https://rehanquantlab.gumroad.com)
+- 🏅 **Google Developer Profile**: [g.dev/rehanquantlab](https://g.dev/rehanquantlab)
 - 💼 **LinkedIn Company**: [linkedin.com/company/rehan-quant-lab](https://www.linkedin.com/company/rehan-quant-lab)
 - 👤 **Founder Profile**: [mohammadrehan1621](https://github.com/mohammadrehan1621)
 - 📸 **Lab Instagram**: [@rehanquantlab](https://www.instagram.com/rehanquantlab/)
